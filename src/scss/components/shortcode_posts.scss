@@ -69,9 +69,14 @@
 
         .close-popup {
             position: absolute;
-            top: 10px;
+            top: 15px;
             right: 10px;
+            display: block;
+            height: 5px;
             cursor: pointer;
+            line-height: 3px;
+            font-size: 28px;
+            opacity: 0.5;
         }
     }
 
